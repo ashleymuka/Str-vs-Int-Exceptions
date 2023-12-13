@@ -1,12 +1,5 @@
 '''
-Author: Ashley Muka
-Assignment Title:String vs int exceptions
-Assignment Description: write a program to read a list of names and ages
-and the program fails is the wrong type is input
-Due Date:09/08/2023
-date Created:09/08/2023
-Date Last Modified:09/08/2023
-
+Description: write a program to read a list of names and ages, and the program should output that list with the age incremented by one
 '''
 
 parts = input().split()
